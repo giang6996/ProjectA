@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Work+Sans:wght@300&display=swap');
+
+html {
+    font-size: 62.5%;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+}
+*,::after,::before {
+    box-sizing: inherit;
+}
+body {
+    margin: 0 0 60px;
+    background-color: #f5f9ff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.4;
+    font-weight: 500;
+    color: orange;
+}
